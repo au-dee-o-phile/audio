@@ -24,7 +24,7 @@ Peter Kropotkin - Conquest of Bread, p. 50
 
 > Why did you decide to make this?
 
-I am  Trans, Lesbian, Autistic, a Woman, dating a Trans, Lesbian, Autistic, Irish/Chinese Woman, and above all else an Anarchist. 
+I am a Trans, Lesbian, Autistic, Woman, dating a Trans, Lesbian, Disabled, Autistic, Irish/Cantonese Woman, and above all else I am an Anarchist. 
 
 I have seen legally acceptable violence performed towards those like me and those I love my entire life. 
 
