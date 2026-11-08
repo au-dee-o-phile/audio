@@ -1,0 +1,14 @@
+[package]
+name = "audio"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]
+actix-files = "0.7.4"
+actix-multipart = "0.8.6"
+actix-web = "4.18.2"
+anyhow = "1.0.104"
+sea-orm = { version = "2.0.4", features = [ "sqlx-postgres", "runtime-tokio", "macros" ]}
+serde = { version = "1.0.229", features = ["derive"] }
+sqlx = { version = "0.9.0", features = ["postgres", "runtime-tokio"] }
+uuid = { version = "1.29.1", features = ["v4"] }
