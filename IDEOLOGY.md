@@ -8,7 +8,7 @@ Make no mistake, these things are not coincidences. The centralised nature of th
 
 [NAME OF PROJECT] exists to be the antithesis to this trend.
 
-There is no centralised body that can delete your content – in fact, there is no centralised body at all. Content is hosted by content creators and distributed through content hubs that enforce their own community standards. 
+There is no centralised body that can delete your content. In fact, there is no centralised body at all. Content is hosted by content creators and distributed through content hubs that enforce their own community standards. 
 
 This will be more difficult than traditional platforms. Self-hosting is complicated, as it requires technical knowledge you might not otherwise have. But when the state tightens its grip, every autonomy you have will be tested to the limit, and you will be grateful for every last bit.
 
